@@ -14,7 +14,7 @@ body {
 
 .business-header {
     height: 400px;
-    background: url("https://psykobilliethekid.github.io/StHelensStables/img/stables07.JPG") center center no-repeat scroll;
+    background: url("/img/stables07.JPG") center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
